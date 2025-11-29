@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mcp
+httpx
+# ollama
+openai
+pandas
+pydantic
+python-multipart
